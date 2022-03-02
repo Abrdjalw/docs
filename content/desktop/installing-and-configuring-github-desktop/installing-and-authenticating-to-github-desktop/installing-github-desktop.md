@@ -1,4 +1,4 @@
----
+by---
 title: Installing GitHub Desktop
 shortTitle: Installation
 intro: You can install GitHub Desktop on supported Windows or macOS operating systems.
